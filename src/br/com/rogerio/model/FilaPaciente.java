@@ -1,7 +1,14 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ 1. Desenvolva um programa que represente um fila de espera de um
+consultório médico. Considere que os pacientes são registrados na fila assim
+que chegam à sala de espera e ficam aguardando o chamado do médico,
+que obedece a ordem de chegada. O programa deve permitir:
+a) Inserir um paciente na fila de espera;
+b) Chamar o paciente para ser atendido;
+c) Verificar se a fila está cheia ou vazia;
+d) Verificar o próximo paciente a ser atendido;
+e) Informar quantos pacientes existem na fila de espera.
+Considere que os pacientes possuem: CPF, Nome, fone e e-mail.
  */
 package br.com.rogerio.model;
 
